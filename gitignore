@@ -1,0 +1,27 @@
+
+# macOS system files
+.DS_Store
+
+# Windows system files
+Thumbs.db
+
+# Logs
+*.log
+
+# IDE/editor folders
+.vscode/
+.idea/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Node.js dependencies (if added in the future)
+node_modules/
+
+# Environment files
+.env
+
+# Build output
+dist/
+build/
