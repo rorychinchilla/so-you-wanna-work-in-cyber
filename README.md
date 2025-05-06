@@ -18,7 +18,7 @@ A practical, inclusive, and beginner-friendly guide for anyone looking to break 
 
 ## 🚀 Getting Started
 
-Read the full guide in `so-you-wanna-work-in-cyber.md`. Use the success checklist to take your first step.
+[Read the full guide here](guide.md). Use the success checklist to take your first step.
 
 ## 📄 License
 
