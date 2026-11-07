@@ -32,9 +32,9 @@ You don’t need a 10-tab study setup—you need one thing that makes sense for 
 
 These reads are foundational—but not overwhelming. Great to come back to over time.
 
-- **[Security Engineering by Ross Anderson](https://www.cl.cam.ac.uk/~rja14/book.html)** – Legendary textbook, free to read  
-- **[OWASP Top 10](https://owasp.org/www-project-top-ten/)** – The definitive list of the most common web security issues  
-- **[Cybersecurity Canon](https://icdt.osu.edu/cybercanon/bookreviews)** – Curated booklist for every path (cloud, GRC, hacking, etc.)
+- **[Security Engineering by Ross Anderson](https://www.cl.cam.ac.uk/archive/rja14/book.html)** – Legendary textbook, free to read  
+- **[OWASP Top 10](https://owasp.org/Top10/)** – The reference list of the most critical web app security risks (2025 edition)  
+- **[Cybersecurity Canon](https://cybercanon.org/)** – Curated booklist for every path (cloud, GRC, hacking, etc.)
 
 ## 🔄 Stay Updated Without Doomscrolling
 
@@ -45,7 +45,7 @@ Short, smart, scrollable:
 - **[The Record](https://therecord.media/)**  
 - **[Risky Biz Podcast](https://risky.biz/)**  
 - **[Wired Security](https://www.wired.com/category/security/)**  
-- **[Bloomberg Cybersecurity](https://www.bloomberg.com/cybersecurity)**  
+- **[Bloomberg Cybersecurity](https://www.bloomberg.com/technology/cybersecurity)**  
 - **[TL;DR Sec](https://tldrsec.com/)**  
 
 ---
@@ -54,10 +54,12 @@ Short, smart, scrollable:
 
 Certs ≠ job guarantees, but they *will* help you talk the talk.
 
-- 🔐 **[Security+](https://www.comptia.org/certifications/security)** – start here if you’re fresh  
-- 🌐 **[Network+](https://www.comptia.org/certifications/network)** – networks matter more than you think  
+- 🔐 **[Security+](https://www.comptia.org/en-us/certifications/security/)** – start here if you’re fresh  
+- 🌐 **[Network+](https://www.comptia.org/en-us/certifications/network/)** – networks matter more than you think  
 - ☁️ **[AWS Cloud Practitioner](https://aws.amazon.com/certification/certified-cloud-practitioner/)** – start here if you’re eyeing cloud security
 - 📍 **[Paul Jerimy’s Roadmap](https://pauljerimy.com/security-certification-roadmap/)** – bookmark it, live by it  
+
+_Heads-up: Security+ switches to a new exam version (SY0-801) on November 17, 2026. Make sure your study materials match the version you book._
 
 ---
 
@@ -132,14 +134,14 @@ What *did* work:
 - **[Explainshell](https://explainshell.com/)** – Bash made understandable  
 - **[TryHackMe](https://tryhackme.com/)**  
 - **[OverTheWire](https://overthewire.org/wargames/)**  
-- **[LeetCode Easy](https://leetcode.com/problemset/all/)**  
+- **[LeetCode Easy](https://leetcode.com/problemset/)**  
 
 ---
 
 ## 🧑‍💻 Blogs & Technical Deep Dives
 
 - **[Troy Hunt](https://www.troyhunt.com)**  
-- **[Malwarebytes Labs](https://blog.malwarebytes.com)**  
+- **[Malwarebytes Labs](https://www.malwarebytes.com/blog)**  
 - **[PortSwigger Blog](https://portswigger.net/blog)**  
 - **[Daniel Miessler](https://danielmiessler.com/blog/build-successful-infosec-career/)**  
 - **[Trail of Bits CTF](https://trailofbits.github.io/ctf/)**  

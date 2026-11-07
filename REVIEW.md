@@ -12,7 +12,7 @@
 
 ## Tier 1 · Fix now (about 15 minutes)
 
-Items marked **[in patch]** are already made on this branch, uncommitted, waiting for your review.
+Items marked **[in patch]** are committed on this branch.
 
 | # | File:line | What's wrong | Suggested fix | Source |
 |---|---|---|---|---|
@@ -32,6 +32,8 @@ Items marked **[in patch]** are already made on this branch, uncommitted, waitin
 ---
 
 ## Tier 2 · Fix soon (stale but not wrong)
+
+**Done in the second commit:** T2-1 to T2-8 and T2-13 (link and accuracy updates only). **Saved for v2:** T2-9 to T2-12, because they change your wording.
 
 | # | File:line | What's wrong | Suggested fix | Source |
 |---|---|---|---|---|
