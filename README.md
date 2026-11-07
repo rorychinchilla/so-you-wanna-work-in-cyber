@@ -5,6 +5,8 @@
 
 # So You Wanna Work in Cyber
 
+_Last updated November 2026 · a refreshed version is in progress_
+
 A practical, inclusive, and beginner-friendly guide for anyone looking to break into the cybersecurity field. Whether you're just curious or ready to dive into certs and hands-on labs, this guide is built to meet you where you are.
 
 ## 📘 What’s Inside
