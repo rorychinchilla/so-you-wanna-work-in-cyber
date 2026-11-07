@@ -11,12 +11,14 @@ This guide cuts through the chaos with **practical, no-fluff resources** that ac
 
 Cybersecurity doesn’t have to be your *delulu*.  
 It can absolutely be your *trululu*.
+
 ---
 
 ### 🧭 How to Use This Guide
 
 Skim. Scroll. Click what fits.  
 This isn’t a textbook—it’s a vibe-based toolkit. Jump to what you need, ignore the rest.
+
 ---
 
 ## ✅ Quick Tip
@@ -40,7 +42,7 @@ Short, smart, scrollable:
 
 - **[Krebs on Security](https://krebsonsecurity.com/)**  
 - **[CSO Online](https://www.csoonline.com/)**  
-- **[Threatpost](https://threatpost.com/)**  
+- **[The Record](https://therecord.media/)**  
 - **[Risky Biz Podcast](https://risky.biz/)**  
 - **[Wired Security](https://www.wired.com/category/security/)**  
 - **[Bloomberg Cybersecurity](https://www.bloomberg.com/cybersecurity)**  
@@ -69,13 +71,12 @@ _If you’re looking for spaces where you don’t have to explain who you are *b
 
 ### 🌈 Notable Communities with Cybersecurity Presence
 - **[Women’s Society of Cyberjutsu (WSC)](https://womenscyberjutsu.org)**  
-- **[WCAPS: Cybersecurity & Emerging Tech](https://www.wcaps.org/cybersecurity-emerging-tech)**  
+- **[WCAPS](https://www.wcaps.org/)**  
 - **[Out in Tech](https://outintech.com)**  
 - **[QTBIPOC Design](https://qtbipoc.design)**  
-- **[Tech By Choice](https://www.techbychoice.org)**  
 - **[Tech Sisters](https://www.tech-sisters.com)**  
 - **[Diversability](https://mydiversability.com)**  
-- **[Natives in Tech](https://nativesintech.org)**  
+- **[Natives in Tech](https://github.com/nativesintech)**  
 
 ## ✊ Real Talk – My Jump Into Security
 
@@ -173,6 +174,7 @@ What *did* work:
 
 There’s no one way in—but now you’ve got a map.  
 Pick one step—and take it today.
+
 ---
 ## 🎯 Success Checklist
 
@@ -205,11 +207,12 @@ Not when you finish X. Not when you're less anxious. Not when you “deserve” 
 Start small.  
 Ask dumb questions.  
 And when you’re ready? Help the next one up the ladder.
+
 ---
 
 ## ✍️ About the Author
 
-This guide was created by **Rory Max Chinchilla** — a first-gen, non-binary, neurodivergent cybersecurity professional who broke into the industry without a CS degree or insider connections.
+This guide was created by **Rory Max Chinchilla** — a first-gen, non-binary, neurodivergent cybersecurity professional who broke in through a CUNY tech degree, certs and community, without insider connections.
 
 They’ve worked in SOCs, built vulnerability management programs, and helped secure large organizations — all while figuring it out one cert and flashcard at a time.
 
@@ -217,5 +220,4 @@ They’ve worked in SOCs, built vulnerability management programs, and helped se
 🏳️‍🌈 Latinx & LGBTQIA+  
 💻 Always learning, always sharing  
 
-📎 Connect with Rory on [LinkedIn](https://www.linkedin.com/in/rorychinchilla)  
-📬 Reach out: rorychinchilla@gmail.com
+📎 Connect with Rory on [LinkedIn](https://www.linkedin.com/in/rorychinchilla)
